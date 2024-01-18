@@ -1,0 +1,48 @@
+
+ong.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: false
+  xy: 2, 237
+  size: 233, 662
+  orig: 233, 662
+  offset: 0, 0
+  index: -1
+canh 1c
+  rotate: false
+  xy: 2, 2
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1
+canh 2c
+  rotate: false
+  xy: 190, 215
+  size: 40, 20
+  orig: 40, 20
+  offset: 0, 0
+  index: -1
+canhc
+  rotate: false
+  xy: 237, 806
+  size: 17, 40
+  orig: 17, 40
+  offset: 0, 0
+  index: -1
+than3
+  rotate: false
+  xy: 237, 848
+  size: 50, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+to ong
+  rotate: false
+  xy: 2, 32
+  size: 186, 203
+  orig: 186, 203
+  offset: 0, 0
+  index: -1
